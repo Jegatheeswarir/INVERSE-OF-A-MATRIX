@@ -26,6 +26,8 @@ print(result)
 ```
 ## Output:
 ![output](<Screenshot 2023-12-16 201142.png>)
+
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
